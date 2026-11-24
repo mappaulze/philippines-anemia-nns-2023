@@ -1,0 +1,6 @@
+check,n
+pregnant <15 y,3
+pregnant >=50 y,1
+lactating >=50 y,3
+"smoking status missing, age>=10",1153
+current smokers (age>=10),12214
